@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wbl11jj
 - 👀 I’m interested in machine learning and software engineering
-- 🌱 I’m currently learning prompt engineering
+- 🌱 I’m currently learning prompt engineering and kotlin
 - 📫 How to reach me kadyrovakramm@gmail.com
 - ⚡ Fun fact: ryoiki tenkai
 
